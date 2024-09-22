@@ -15,6 +15,7 @@ C++ project:
 4. Open your .uproject
 5. Unreal will ask you if you want to rebuild the modules, click yes
 ![AddToFolder_04](https://github.com/user-attachments/assets/ece9449f-3ac6-4a2c-bcd8-b32c357db33e)
+
 Done
 
 Blueprint projects: 
@@ -24,6 +25,7 @@ Blueprint projects:
 3. Delete your Intermediate folder 
 ![AddToFolder_06](https://github.com/user-attachments/assets/78cbb302-46cf-4faf-b4ac-dafec35ea3a1)
 4. Open your .uproject
+
 Done
 
 In project:
